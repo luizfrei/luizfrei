@@ -1,4 +1,9 @@
-## Hi there 👋
+<h1 align="center">👋 Olá, seja bem-vindo ao meu perfil!</h1>
+
+<p align="center">
+  💻Atualmente sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, especialmente pelo universo do desenvolvimento back-end e fullstack.
+
+</p>
 
 <!--
 **luizfrei/luizfrei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
