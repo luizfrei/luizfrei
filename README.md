@@ -4,6 +4,11 @@
   💻Atualmente sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, especialmente pelo universo do desenvolvimento back-end e fullstack.
 
 </p>
+💻 Tenho me dedicado a aprender e evoluir constantemente, participando de mentorias, cursos e projetos práticos.  
+🚀 Meu foco está em construir soluções robustas, escaláveis e bem estruturadas — adoro entender como as coisas funcionam "por trás dos bastidores".  
+🌱 Recentemente iniciei uma formação na AWS, expandindo meus conhecimentos em cloud e infraestrutura.  
+📌 Já participei de competições como o **Robocode**, onde aprendi muito sobre lógica, estratégia e trabalho em equipe.  
+✨ Também tenho refletido bastante sobre carreira, liderança e autoconhecimento, o que tem transformado minha jornada profissional.
 
 <!--
 **luizfrei/luizfrei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
