@@ -1,14 +1,18 @@
 <h1 align="center">👋 Olá, seja bem-vindo ao meu perfil!</h1>
 
 <p align="center">
-  💻Atualmente sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, especialmente pelo universo do desenvolvimento back-end e fullstack.
-
+  💻 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, especialmente pelo universo do desenvolvimento back-end e fullstack.
 </p>
-💻 Tenho me dedicado a aprender e evoluir constantemente, participando de mentorias, cursos e projetos práticos.  
-🚀 Meu foco está em construir soluções robustas, escaláveis e bem estruturadas — adoro entender como as coisas funcionam "por trás dos bastidores".  
-🌱 Recentemente iniciei uma formação na AWS, expandindo meus conhecimentos em cloud e infraestrutura.  
-📌 Já participei de competições como o **Robocode**, onde aprendi muito sobre lógica, estratégia e trabalho em equipe.  
-✨ Também tenho refletido bastante sobre carreira, liderança e autoconhecimento, o que tem transformado minha jornada profissional.
+
+---
+
+💻 Tenho me dedicado a aprender e evoluir constantemente, participando de mentorias, cursos e projetos práticos. 🚀  
+Meu foco está em construir soluções robustas, escaláveis e bem estruturadas — adoro entender como as coisas funcionam "por trás dos bastidores". 🌱  
+Recentemente iniciei uma formação na AWS, expandindo meus conhecimentos em cloud e infraestrutura. 📌  
+Já participei de competições como o **Robocode**, onde aprendi muito sobre lógica, estratégia e trabalho em equipe. ✨  
+Também tenho refletido bastante sobre carreira, liderança e autoconhecimento, o que tem transformado minha jornada profissional.
+
+---
 
 ## 🚀 Tecnologias que eu utilizo
 
@@ -21,7 +25,6 @@
   <img align="center" alt="JS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="PHP" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
-
 ---
 
 
