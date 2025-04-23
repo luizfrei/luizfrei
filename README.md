@@ -25,7 +25,7 @@ Também tenho refletido bastante sobre carreira, liderança e autoconhecimento, 
   <img align="center" alt="JS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="PHP" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
----
+
 
 
 <!--
